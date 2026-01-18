@@ -438,13 +438,13 @@
                 <div class="footer-column">
                     <h3>Contact Us</h3>
                     <p>DR AJEENKYA DY PATIL UNIVERSITY,<br>LOHAGOEN,PUNE</p>
-                    <p>srivallikorada17@gmail.com</p>
-                    <p>8919645699</p>
+                    <p>vaishnavii.jagdale.31@gmail.com</p>
+                    <p>7756829319</p>
                 </div>
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2023 Studyboardd. All rights reserved.</p>
+                <p>&copy; 2025 Studyboardd. All rights reserved.</p>
             </div>
         </div>
     </footer>
